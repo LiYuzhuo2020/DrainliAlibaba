@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DrainliAlibaba.iml" filepath="$PROJECT_DIR$/DrainliAlibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-spring-boot-starter/redis-spring-boot-starter.iml" filepath="$PROJECT_DIR$/redis-spring-boot-starter/redis-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-client-sample/spring-cloud-alibaba-client-sample.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-client-sample/spring-cloud-alibaba-client-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos-config-server/spring-cloud-alibaba-nacos-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-config-server/spring-cloud-alibaba-nacos-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-sample-api/spring-cloud-alibaba-sample-api.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-sample-api/spring-cloud-alibaba-sample-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-sentinel/spring-cloud-alibaba-sentinel.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel/spring-cloud-alibaba-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba-server-sample/spring-cloud-alibaba-server-sample.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba-server-sample/spring-cloud-alibaba-server-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springclooud-sample-nacos-provider/springclooud-sample-nacos-provider.iml" filepath="$PROJECT_DIR$/springclooud-sample-nacos-provider/springclooud-sample-nacos-provider.iml" />
+    </modules>
+  </component>
+</project>

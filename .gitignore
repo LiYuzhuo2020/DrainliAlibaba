@@ -1,0 +1,7 @@
+# Project exclude paths
+/spring-cloud-alibaba-client-sample/target/
+/spring-cloud-alibaba-nacos-config-server/target/
+/spring-cloud-alibaba-sample-api/target/
+/spring-cloud-alibaba-sentinel/target/
+/spring-cloud-alibaba-server-sample/target/
+/springclooud-sample-nacos-provider/target/

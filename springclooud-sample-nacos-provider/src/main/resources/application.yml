@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: spring-cloud-sample-nacos
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.3.148:8848
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

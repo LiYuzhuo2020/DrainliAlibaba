@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-alibaba-client-sample" />
+        <module name="spring-cloud-alibaba-server-sample" />
+        <module name="spring-cloud-alibaba-sample-api" />
+        <module name="spring-cloud-alibaba-nacos-config-server" />
+        <module name="redis-spring-boot-starter" />
+        <module name="spring-cloud-alibaba-sentinel" />
+        <module name="springclooud-sample-nacos-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DrainliAlibaba" target="11" />
+      <module name="redis-spring-boot-starter" target="11" />
+      <module name="spring-cloud-alibaba-client-sample" target="11" />
+      <module name="spring-cloud-alibaba-nacos-config-server" target="11" />
+      <module name="spring-cloud-alibaba-sample-api" target="11" />
+      <module name="spring-cloud-alibaba-sentinel" target="11" />
+      <module name="spring-cloud-alibaba-server-sample" target="11" />
+      <module name="springclooud-sample-nacos-provider" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
