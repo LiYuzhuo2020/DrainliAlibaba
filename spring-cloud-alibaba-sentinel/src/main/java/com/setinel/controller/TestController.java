@@ -34,8 +34,8 @@ public class TestController {
     @SentinelResource(value = "one",fallback = "oneFallback",blockHandler = "blockHandler")
     public Mono<String> one() throws InterruptedException {
        //Thread.sleep(30000); // 模拟异常，出发限流机制
-        throw new RuntimeException("blocked ! ") ;
-       // return sentinelTestService.one() ;
+//        throw new RuntimeException("blocked ! ") ;
+        return sentinelTestService.one() ;
     }
 
     public Mono<String> oneFallback() {

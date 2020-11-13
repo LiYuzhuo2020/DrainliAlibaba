@@ -15,7 +15,7 @@ public class SentinelRulesUtils {
     /**
      *  初始化限流规则
      */
-    private static void initFlowRules() {
+    public  void initFlowRules() {
         FlowRule rule = new FlowRule() ;
         List<FlowRule> rules = new ArrayList<>() ;
 
